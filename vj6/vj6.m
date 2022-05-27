@@ -37,7 +37,7 @@ x0 = [pi/8, 0];
 [t2, y2] = ode45('vj6ode2', [0, 10], x0);
 
 %% Plot
-plot(t2, y2(:,2))
+plot(t2, y2(:,1))
 xlabel('t(s)');
 ylabel('\theta (rad)');
 legend('kut zakreta')
