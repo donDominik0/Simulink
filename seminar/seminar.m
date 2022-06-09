@@ -12,6 +12,9 @@ b = 0.5;
 c = 150;
 Km = 1;
 
+%% simulink
+sim('seminar_simulink');
+
 %% tlak
 %function [dp1, dp2] = tlak(Q1, omega_m, theta_m, Q2)
 %%global qrm B V0;
