@@ -1,0 +1,19 @@
+\contentsline {subsection}{Uvod}{1}{section*.2}%
+\contentsline {subsubsection}{U zadatku je potrebno:}{1}{section*.3}%
+\contentsline {subsubsection}{Opis zadatka}{1}{Item.2}%
+\contentsline {paragraph}{Slika hidrauličke sheme}{1}{section*.5}%
+\contentsline {paragraph}{Proporcionalni ventil}{2}{section*.6}%
+\contentsline {paragraph}{Hidraulički motor}{2}{section*.7}%
+\contentsline {subsubsection}{Parametri sustava}{3}{section*.8}%
+\contentsline {subsection}{Simulink model}{4}{section*.9}%
+\contentsline {subsubsection}{Simulink shema}{4}{section*.10}%
+\contentsline {subsubsection}{Matlab funkcije u Simulinku}{4}{section*.11}%
+\contentsline {paragraph}{Matlab funkcija protok}{4}{section*.12}%
+\contentsline {paragraph}{Matlab funkcija tlak}{4}{section*.13}%
+\contentsline {subsection}{Simulacijski rezultati}{5}{section*.14}%
+\contentsline {subsubsection}{Pobuda i odziv}{5}{section*.15}%
+\contentsline {subsubsection}{Pozicija proporcionalnog ventila}{6}{section*.16}%
+\contentsline {subsubsection}{Protok proporcionalnog ventila}{7}{section*.17}%
+\contentsline {subsubsection}{Tlakovi u komorama motora}{8}{section*.18}%
+\contentsline {subsection}{Zaključak}{9}{section*.19}%
+\contentsline {subsection}{Prilog:}{9}{section*.20}%
